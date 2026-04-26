@@ -12,7 +12,7 @@ Email Me 👉 ✉️ **archimishra912019@gmail.com** For Collaboration/Project. 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkdin:www.linkedin.com/in/archi-mishra-h5) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:archimishra912019@gmail.com) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:archimishra912019@gmail.com) 
 
 <!-- Snake Game Repo View -->
 
